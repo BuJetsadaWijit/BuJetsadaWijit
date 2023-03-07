@@ -3,6 +3,5 @@
 </div>
 
 <div id="body" align="center">
-  <a href="https://www.paypal.com/paypalme/jetsadawijit"><img src="https://media.tenor.com/MaFejK1rRAQAAAAC/paypal-logo.gif" height="100" width="180"/></a>
   <a href="http://youtube.com/@JetsadaWijit"><img src="https://media1.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" height="100" width="180"/></a>
 </div>
